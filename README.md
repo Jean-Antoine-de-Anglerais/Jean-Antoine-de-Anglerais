@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Contact 
+
+- Discord: le_ombre
+- Steam: [Jean-Antoine d'Anglerais](http://steamcommunity.com/id/le_ombre)
+- YouTube [Псевдоинтеллектуализм](https://www.youtube.com/@pseudo-intellectualismus/)
+- GameBanana: [Jean-Antoine de Anglerais](https://gamebanana.com/members/2525301)  
+- Matrix: @le_ombre:matrix.org  
+- Email: mort_en_1591@proton.me
+- GitHub: [Jean-Antoine d'Anglerais](https://github.com/Jean-Antoine-de-Anglerais)
+
 <!--
 **Jean-Antoine-de-Anglerais/Jean-Antoine-de-Anglerais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
