@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# Contact 
+## Contact 
 
 - Discord: le_ombre
 - Steam: [Jean-Antoine d'Anglerais](http://steamcommunity.com/id/le_ombre)
